@@ -10,7 +10,7 @@
 > The following covers how to install this branch as a submodule within your own project, and parameters that `await-interface.sh` currently responds to.
 
 
-## [![Byte size of await-interface.sh][badge__master__await_interface__source_code]][await_interface__master__source_code] [![Open Issues][badge__issues__await_interface]][issues__await_interface] [![Open Pull Requests][badge__pull_requests__await_interface]][pull_requests__await_interface] [![Latest commits][badge__commits__await_interface__master]][commits__await_interface__master]
+## [![Byte size of await-interface.sh][badge__master__await_interface__source_code]][await_interface__master__source_code] [![Open Issues][badge__issues__await_interface]][issues__await_interface] [![Open Pull Requests][badge__pull_requests__await_interface]][pull_requests__await_interface] [![Build Test Status][badge__travis_ci__await_interface]][travis_ci__await_interface] [![Latest commits][badge__commits__await_interface__master]][commits__await_interface__master]
 
 
 
