@@ -27,8 +27,9 @@ await_interface(){
     local -a _interface_names
     while true; do
         while IFS= read -r _interface_name; do
+            [[ -n "${_interface_name}" ]] || continue
             _interface_names+=("${_interface_name}")
-        done <<<"$({ ls -1 '/sys/class/net' | grep -- "${_interface_hint}"; } 2>/dev/null)"
+        done <<<"$(ls -1 '/sys/class/net' | grep -- "${_interface_hint}")"
 
         if [ "${#_interface_names[@]}" -gt '0' ]; then
             printf '%s\n' "${_interface_names[*]}"
@@ -40,4 +41,6 @@ await_interface(){
         let _loop_count+=1
         sleep "${_sleep_interval}"
     done
+
+    [[ "${#_interface_names[@]}" -gt '0' ]]; return "${?}"
 }
