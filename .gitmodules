@@ -1,4 +1,4 @@
 [submodule "await-interface"]
 	path = modules/await-interface
-	url = https://github.com/bash-utilities/await-interface.git
+	url = https://github.com/network-utilities/await-interface.git
 	branch = master

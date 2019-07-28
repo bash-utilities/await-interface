@@ -83,43 +83,43 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
 
 
-[master_branch]: https://github.com/bash-utilities/await-interface
+[master_branch]: https://github.com/network-utilities/await-interface
 
-[branch_master__await_interface]: https://github.com/bash-utilities/await-interface/blob/master/await-interface.sh
+[branch_master__await_interface]: https://github.com/network-utilities/await-interface/blob/master/await-interface.sh
 
 
 [branch_example__example_usage]:
-  https://github.com/bash-utilities/await-interface/blob/example/example-usage.sh
+  https://github.com/network-utilities/await-interface/blob/example/example-usage.sh
   "Bash script that shows some ways of utilizing code from the master branch of this repository"
 
 
 [badge__travis_ci__await_interface]:
-  https://img.shields.io/travis/bash-utilities/await-interface/example.svg
+  https://img.shields.io/travis/network-utilities/await-interface/example.svg
 
 [travis_ci__await_interface]:
-  https://travis-ci.com/bash-utilities/await-interface
+  https://travis-ci.com/network-utilities/await-interface
   "&#x1F6E0; Automated tests and build logs"
 
 
 [badge__commits__await_interface__example]:
-  https://img.shields.io/github/last-commit/bash-utilities/await-interface/example.svg
+  https://img.shields.io/github/last-commit/network-utilities/await-interface/example.svg
 
 [commits__await_interface__example]:
-  https://github.com/bash-utilities/await-interface/commits/example
+  https://github.com/network-utilities/await-interface/commits/example
   "&#x1F4DD; History of changes on this branch"
 
 
 [badge__issues__await_interface]:
-  https://img.shields.io/github/issues/bash-utilities/await-interface.svg
+  https://img.shields.io/github/issues/network-utilities/await-interface.svg
 
 [issues__await_interface]:
-  https://github.com/bash-utilities/await-interface/issues
+  https://github.com/network-utilities/await-interface/issues
   "&#x2622; Search for and _bump_ existing issues or open new issues for project maintainer to address."
 
 
 [badge__pull_requests__await_interface]:
-  https://img.shields.io/github/issues-pr/bash-utilities/await-interface.svg
+  https://img.shields.io/github/issues-pr/network-utilities/await-interface.svg
 
 [pull_requests__await_interface]:
-  https://github.com/bash-utilities/await-interface/pulls
+  https://github.com/network-utilities/await-interface/pulls
   "&#x1F3D7; Pull Request friendly, though please check the Community guidelines"
