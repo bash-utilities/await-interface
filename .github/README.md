@@ -48,7 +48,7 @@
 
 
 ```Bash
-_module_https_url='https://github.com/bash-utilities/await-interface.git'
+_module_https_url='https://github.com/network-utilities/await-interface.git'
 _module_relative_path='lib/modules/await-interface'
 ```
 
@@ -177,7 +177,7 @@ git add README.md
 
 
 git commit -F- <<'EOF'
-:heavy_plus_sign: Adds bash-utilities/await-interface dependency
+:heavy_plus_sign: Adds network-utilities/await-interface dependency
 
 
 
@@ -288,55 +288,55 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 
 [badge__travis_ci__await_interface]:
-  https://img.shields.io/travis/bash-utilities/await-interface/example.svg
+  https://img.shields.io/travis/network-utilities/await-interface/example.svg
 
 [travis_ci__await_interface]:
-  https://travis-ci.com/bash-utilities/await-interface
+  https://travis-ci.com/network-utilities/await-interface
   "&#x1F6E0; Automated tests and build logs"
 
 
 [branch_example__example_usage]:
-  https://github.com/bash-utilities/await-interface/blob/example/example-usage.sh
+  https://github.com/network-utilities/await-interface/blob/example/example-usage.sh
   "Bash script that shows some ways of utilizing code from the master branch of this repository"
 
 
 [badge__commits__await_interface__master]:
-  https://img.shields.io/github/last-commit/bash-utilities/await-interface/master.svg
+  https://img.shields.io/github/last-commit/network-utilities/await-interface/master.svg
 
 [commits__await_interface__master]:
-  https://github.com/bash-utilities/await-interface/commits/master
+  https://github.com/network-utilities/await-interface/commits/master
   "&#x1F4DD; History of changes on this branch"
 
 
 [await_interface__community]:
-  https://github.com/bash-utilities/await-interface/community
+  https://github.com/network-utilities/await-interface/community
   "&#x1F331; Dedicated to functioning code"
 
 
 [await_interface__example_branch]:
-  https://github.com/bash-utilities/await-interface/tree/example
+  https://github.com/network-utilities/await-interface/tree/example
   "If it lurches, it lives"
 
 
 [badge__issues__await_interface]:
-  https://img.shields.io/github/issues/bash-utilities/await-interface.svg
+  https://img.shields.io/github/issues/network-utilities/await-interface.svg
 
 [issues__await_interface]:
-  https://github.com/bash-utilities/await-interface/issues
+  https://github.com/network-utilities/await-interface/issues
   "&#x2622; Search for and _bump_ existing issues or open new issues for project maintainer to address."
 
 
 [badge__pull_requests__await_interface]:
-  https://img.shields.io/github/issues-pr/bash-utilities/await-interface.svg
+  https://img.shields.io/github/issues-pr/network-utilities/await-interface.svg
 
 [pull_requests__await_interface]:
-  https://github.com/bash-utilities/await-interface/pulls
+  https://github.com/network-utilities/await-interface/pulls
   "&#x1F3D7; Pull Request friendly, though please check the Community guidelines"
 
 
 [badge__master__await_interface__source_code]:
-  https://img.shields.io/github/size/bash-utilities/await-interface/await-interface.sh.svg?label=await-interface.sh
+  https://img.shields.io/github/size/network-utilities/await-interface/await-interface.sh.svg?label=await-interface.sh
 
 [await_interface__master__source_code]:
-  https://github.com/bash-utilities/await-interface/blob/master/await-interface.sh
+  https://github.com/network-utilities/await-interface/blob/master/await-interface.sh
   "&#x2328; Project source code!"
